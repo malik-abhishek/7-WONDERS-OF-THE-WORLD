@@ -10,4 +10,4 @@ VScode / Live Server
 This page gives a short overview of the world's 7 wonders of the world.
 
 #
-Project Created by @aankitkumaar
+LINK:- https://astounding-sunburst-964114.netlify.app/
